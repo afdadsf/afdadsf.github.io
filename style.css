@@ -8,5 +8,11 @@ display: flex-direction: column
 ｝
 
 main｛
-display: flex；
+display: flex: aut
+｝
+<aside>｛
+display: flex:1
+｝
+article｛
+display: flex:3
 ｝
