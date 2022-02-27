@@ -2,9 +2,11 @@ a {
   color: green;
 }
     main{
-        display: flex: auto;
+        display: flex;
+         display: flex: auto;
     }
     body{
+       display: flex;
         flex-direction:column;
     }
     aside{
