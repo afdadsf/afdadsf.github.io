@@ -1,3 +1,5 @@
 document.addEventListener("DOMContentLoaded", function(event) {
-   alert("Hello JavaScript");
+   <<img class="small"
+     src="520.jfif"
+     alt="123">
 });
