@@ -3,15 +3,15 @@ a {
 }
 main{
         display: flex;
-         display: flex: auto;
+        display: flex: auto;
     }
 body{
        display: flex;
-        flex-direction:column;
+       flex-direction:column;
     }
  aside{
-        display: flex: 1;
+        flex: 1;
     }
 article{
-        display:flex: 3;
+        flex: 3;
     }
