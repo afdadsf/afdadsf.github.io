@@ -1,17 +1,17 @@
 a {
   color: green;
 }
-    main{
+    .main{
         display: flex;
          display: flex: auto;
     }
-    body{
+    .body{
        display: flex;
         flex-direction:column;
     }
-    aside{
+    .aside{
         display: flex: 1;
     }
-    article{
+    .article{
         display:flex: 3;
     }
