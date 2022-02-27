@@ -1,5 +1,3 @@
 document.addEventListener("DOMContentLoaded", function(event) {
-   <img class="small"
-     src="520.jfif"
-     alt="123">
+   let targetImage = document.querySelector("#smart-image");
 });
