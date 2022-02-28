@@ -6,7 +6,7 @@ main{
         display: flex: auto;
     }
 body{
-      color：blue;
+       background-color:bule;
        display: flex;
        flex-direction:column;
     }
