@@ -6,6 +6,7 @@
     <meta charset="utf-8">
     <title>推荐的小说</title>
    <link rel="icon" type="image/x-icon" href="522.jfif" />
+    <script src="//cdn.jsdelivr.net/npm/@waline/client"></script>
     <link href="https://www.adalab.cn/admission.css" rel="stylesheet">
 <link href="style.css" rel="stylesheet">
     <script src="thumbnail.js"></script>
@@ -40,6 +41,12 @@
    <footer>
   <p>by <a href="https://www.zhihu.com/people/he-he-8-8" target="_blank">CGTN</a> for <a href="https://www.adalab.cn" target="_blank">Adalab</a></p>
 </footer>
+ <script>
+    Waline({
+      el: '#waline',
+      serverURL: 'https://your-domain.hdajsf.vercel.app',
+    });
+  </script>
 </body>
 
 </html>
