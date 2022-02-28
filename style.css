@@ -25,3 +25,8 @@ article{
    height:20px;
    weight:20px;
 }
+.shipi{
+     height:500px;
+     weight:500px;
+     flex-direction:center
+}
