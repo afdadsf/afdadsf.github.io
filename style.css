@@ -16,5 +16,7 @@ article{
         flex: 3;
     }
 .biaoti{
-  height:80px;
+  height:800px;
+  weight:800px
+  flex-direction:center
 }
