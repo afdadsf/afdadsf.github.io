@@ -15,8 +15,6 @@ body{
 article{
         flex: 3;
     }
-iframe{
-    width：800px
-    heigt：800px
-
+.biaoti{
+  height:80px;
 }
