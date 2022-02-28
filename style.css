@@ -6,6 +6,7 @@ main{
         display: flex: auto;
     }
 body{
+      color：blue;
        display: flex;
        flex-direction:column;
     }
